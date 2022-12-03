@@ -1,0 +1,48 @@
+{
+  "movie_catalogues": [
+    {
+      "title": "Hindi Movies",
+      "identifier": "id=9&avsCategoryId=5631&contentId=5710"
+    },
+    {
+      "title": "Odia Movies",
+      "identifier": "id=991&avsCategoryId=1260102771&contentId=1260102771"
+    },
+    {
+      "title": "Bengali Movies",
+      "identifier": "id=2&avsCategoryId=5629&contentId=5708"
+    },
+    {
+      "title": "Telugu Movies",
+      "identifier": "id=10&avsCategoryId=5635&contentId=5714"
+    },
+    {
+      "title": "Malayalam Movies",
+      "identifier": "id=8&avsCategoryId=5633&contentId=5712"
+    },
+    {
+      "title": "Tamil Movies",
+      "identifier": "id=5&avsCategoryId=5634&contentId=5713"
+    },
+    {
+      "title": "Marathi Movies",
+      "identifier": "id=4&avsCategoryId=5636&contentId=5715"
+    },
+    {
+      "title": "Kannada Movies",
+      "identifier": "id=7&avsCategoryId=5632&contentId=5711"
+    },
+    {
+      "title": "English Movies",
+      "identifier": "id=3&avsCategoryId=5630&contentId=5709"
+    },
+    {
+      "title": "Korean Movies",
+      "identifier": "id=963&avsCategoryId=1260048444&contentId=1260048444"
+    },
+    {
+      "title": "Japanese Movies",
+      "identifier": "id=966&avsCategoryId=1260062045&contentId=1260062045"
+    }
+  ]
+}
